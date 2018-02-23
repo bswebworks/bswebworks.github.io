@@ -92,6 +92,7 @@ nav.top_menu ul li a:hover{color: #2ec0d1; }
 .name_title span{font-size: 14px; color: #fff;}
 .global_leaders.dm_philosophy:after{content: 'Global Leaders';  }
 .logo_wrap img{width: 110px;}
+.logo_wrap a{font-size: 20px; color: #fff; font-weight: bold;}
 .outer_wrap{ width: 400%; position: relative;}
 .outer_wrap > .slide { width: 25%; float: left; position: relative; padding: 0 20px;}
 .bullets {float: left;}
